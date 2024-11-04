@@ -1,0 +1,6 @@
+@DogHouseService_HostAddress = http://localhost:5206
+
+GET {{DogHouseService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
